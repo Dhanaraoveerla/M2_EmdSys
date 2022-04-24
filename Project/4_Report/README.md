@@ -23,9 +23,9 @@ Heating method is generally used to regulate the temperature. The system has the
 -   The lighting emitting diode is a p-n junction diode. It is a specially doped diode and made up of a special type of semiconductors. When the light emits in the forward biased, then it is called a light-emitting diode.
 ## Diagram
 ### Block Diagram
-![Block Diagram](https://user-images.githubusercontent.com/98877997/157211966-c143e397-3c2f-4677-9707-a5af926036b4.jpg)
+![Block Diagram]![WhatsApp Image 2022-04-24 at 3 06 49 PM](https://user-images.githubusercontent.com/101260690/164970964-ca1d445a-ee2a-4890-91d7-8887be3691d4.jpeg)
 ### Flow Chart
-![Flow Chart](https://user-images.githubusercontent.com/98877997/157211901-6dcf01e4-8674-4f1b-baf5-7402f562bc0a.jpg)
+![Flow Chart]!![WhatsApp Image 2022-04-24 at 3 08 06 PM](https://user-images.githubusercontent.com/101260690/164971033-7d4ad429-7073-49f2-bb57-a93d79211a86.jpeg)
 ## 4W's 1-H
 ### What
 In the winter, heating the seat can make cars much more comfortable. Heating system that raises the surface temperature of the automated seat to the comfort of the occupants.
